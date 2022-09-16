@@ -19,7 +19,7 @@ public class Main {
 		String temp = "";
 		String currentSentence = "";
 		String path = System.getProperty("user.dir");
-		System.out.println(path);
+		
 		// Read in and process the input file
 		try {
 			File inFile = new File(path + "\\Coding Challenge.txt");
