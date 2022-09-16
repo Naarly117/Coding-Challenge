@@ -1,0 +1,16 @@
+Total word count: 443
+
+Top 10 most frequently occurring words:
+#1: the (18)
+#2: a (16)
+#3: is (15)
+#4: auctions (14)
+#5: for (13)
+#6: of (13)
+#7: in (12)
+#8: object (11)
+#9: to (10)
+#10: an, price (9)
+
+Last sentence containing the most frequent word ("the"):
+  Closed formats are opague: only the seller is able to tell how much each customer is willing to pay for an object.
