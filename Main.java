@@ -6,7 +6,6 @@ public class Main {
 	public static void main(String[] args) {
 		
 		// Initialize variables
-		int testingGit = 7;
 		
 		// Total number of words in the input file
 		int wordCount = 0;
